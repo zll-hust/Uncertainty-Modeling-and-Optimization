@@ -30,4 +30,4 @@ The notes will be continuously supplemented if I have any leisure. Here is the C
 
 ## About Me
 
-Hang Zhou, undergraduate of Huazhong University of Science & Technology, major in Management Science. Now I'm working for certainty/uncertainty operations research algorithm design.
+Hang Zhou, an undergraduate student of Huazhong University of Science & Technology, major in Management Science. Now I'm working for certainty/uncertainty operations research algorithm design.
