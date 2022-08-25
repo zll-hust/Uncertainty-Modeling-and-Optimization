@@ -2,7 +2,7 @@
 
 ## Before Reading
 
-This is my notes for Robust Optimization (in Chinese), including a brief introduction to Stochastic Programming and Chance-Constraint Programming. The notes include two parts. Part 1 is the introduction of some basic theories of RO, including classical (static) RO, Adaptive RO, Distributionally RO, ADRO, and some preliminary knowledge, such as Lagrange dual, conic programming. Part 2 introduces some applications of RO in different OR scenarios. 
+This is my note (in Chinese) for Robust Optimization, including a brief introduction to Stochastic Programming and Chance-Constraint Programming. The notes include two parts. Part 1 is the introduction of some basic theories of RO, including classical (static) RO, Adaptive RO, Distributionally RO, ADRO, and some preliminary knowledge, such as Lagrange dual, conic programming. Part 2 introduces some applications of RO in different OR scenarios. 
 
 In these notes, I try to derive the results of the theorems step by step. However, since I'm not good at mathematics, the derivation may not strict enough. Luckily, my object is to apply the modeling methods to some OR problems, so a quick understanding may also be useful for beginners like me. Remarkably, I didn't learn any course about convex optimization, although it plays an important role in RO. So, I think these notes will be helpful, especially for undergraduates majoring in management or engineering but not mathematics.
 
